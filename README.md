@@ -6,7 +6,6 @@ This program contains links to helpful material and code files to help you devel
 - [Ada NEORV32 HAL](https://github.com/GNAT-Academic-Program/neorv32-hal/tree/main)
 - [Ada Compatible NEORV32 Setups Folder](https://github.com/GNAT-Academic-Program/neorv32-setups)
 - [Ada Compatible NEORV32 Fork](https://github.com/GNAT-Academic-Program/neorv32/tree/7349c409eea4e129d5d11b6ecbcfaea76c470709)
-
 - [Input Output Helper Library](https://github.com/dipenarathod/Input-Output-Helper-Library-for-NEORV32-Ada-Projects)
 - [Wishbone NPU](https://github.com/dipenarathod/Wishbone-NPU)
 - [Wishbone Camera Controller for OV5640](https://github.com/dipenarathod/Wishbone-Camera-Controller-for-OV5640)
