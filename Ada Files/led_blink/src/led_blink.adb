@@ -15,7 +15,7 @@ with NEORV32.GPIO;    use NEORV32.GPIO;
 
 procedure Led_Blink is
    Dummy : UInt32 := 0;
-   pragma Volatile (Dummy);  -- prevents optimizer from eliminating the loop
+   pragma Volatile (Dummy);  --prevents optimizer from eliminating the loop
 begin
    loop
       --  GPIO_Periph.INPUT0 := 0;
