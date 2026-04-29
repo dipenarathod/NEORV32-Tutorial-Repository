@@ -17,3 +17,7 @@ This repository contains links to helpful material and code files to help you de
 - **[NEORV32 + NPU Guide](https://www.youtube.com/playlist?list=PLTuulhiizN0KFKIZwFJnOU0KGaqpqDNzj)** - Playlist showing how to connect the NEORV32 to the Wishbone NPU in VHDL
 - **[NEORV32 + Camera Controller Guide](https://www.youtube.com/playlist?list=PLTuulhiizN0K-HTymHKr1Nurv-iq_RdWK)** - Playlist showing how to connect the NEORV32 to the Wishbone Camera Controller for the OV5640 in VHDL
 - **[NEORV32 + Interconnect Guide](https://www.youtube.com/playlist?list=PLTuulhiizN0KFKIZwFJnOU0KGaqpqDNzj)** - Playlist showing how to use the developed Wishbone Interconnect to connect the NEORV32 to the Camera Controller + NPU simultaneously
+
+## Walthroughs + Features + Presentation
+- **[NEORV32 + NPU + Camera Controller Features](https://youtu.be/YZdjy-vXNMk)** - Walkthrough of NEORv32 + NPU + Camera Controller VHDL files to show what to change to personalize the system/migrate to a new platform
+- **[Quick Python convert_weight script Usage + Ada Project Setup](https://youtu.be/nBpLutpjnVk?si=aR93uhGkc-HtZxYG)** - Quickly go over how to use the Python convert_weights script + what to do to develop NEORV32 + NPU programs in Ada
